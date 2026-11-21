@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "BadmoshSmp24x7Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "delhi-106230.indernos.in",
     "port": 25565,
     "version": "",
     "try-creative": false
